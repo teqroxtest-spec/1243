@@ -1,7 +1,3 @@
-import React from 'react'
-
-function App() {
-  return <h1>Welcome to LynqBot: Content to Conversion</h1>
+export default function App() {
+  return <h1>Hello from LynqBot!</h1>;
 }
-
-export default App
